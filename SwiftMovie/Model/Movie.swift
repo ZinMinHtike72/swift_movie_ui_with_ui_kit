@@ -16,5 +16,11 @@ struct Movie {
     var movieRuntime : String
 
     var rating: Float
+    
+    var genre : String
+    
+    var id : Int
+    
+    var isFavourite : Bool
 
 }
